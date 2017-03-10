@@ -11,9 +11,7 @@ _ =
   screenshotmachine_api_key: "b645b8"
   cli_port: 7731
   admins: {
-    110626080
-    123456789
-    --your id
+    316307242
   }
   plugs: {
     "9gag"
